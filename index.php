@@ -2,7 +2,7 @@ welcome to linux world
 <br/>
 <pre>
 <?php>
-print 'ifconfig';
+print ifconfig;
 
 <?>
 </pre>
